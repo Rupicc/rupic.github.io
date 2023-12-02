@@ -12,10 +12,3 @@
   <h2>Pronouced Fron Rupic Technologies .LLC</h2>
 </div>
 
-> [!NOTE]
-> THIS WILL GRAB YOU
-
-1. Clone the repo to your machine: `git clone https://github.com/CinnyVRYTTV/Rupic.git && cd Rupic`
-2. Install Dependencies: `npm install`
-3. Start the app: `npm start`
-4. Visit [localhost:8080](http://localhost:8080) for your local Dox 💀!
